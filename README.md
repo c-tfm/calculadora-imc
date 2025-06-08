@@ -1,8 +1,8 @@
-Calculadora de IMC en Python
+## Calculadora de IMC en Python
 
 Este programa permite al usuario ingresar sus datos personales (nombre, apellidos, edad, peso y estatura), y calcula su IMC para clasificarlo según los rangos establecidos como saludables con la idea de ayudar a mejorar la salud.
 
-¿Cómo funciona mi programa?
+## ¿Cómo funciona mi programa?
 
 1. Crear una validación de datos: 
 	- Solo permite uno o dos nombres.
@@ -30,7 +30,7 @@ Además quise incluir un pequeño mensaje respecto al IMC con esperanzas de alen
 
 	- Al final, pregunta si deseas ingresar los datos de otra persona. Si respondes "No", termina con un mensaje de despedida, aunque en realidad por el tema del código termina con cualquier palabra distinta a Si.
 
-## 💡 Reflexiones del Bootcamp
+##  Reflexiones del Bootcamp
 
 Hasta ahora, el bootcamp me ha permitido reforzar mis habilidades en Python, especialmente en:
 - Estructuras de control (`while`, `if`, `else`), aquí batalle bastante buscando errores
